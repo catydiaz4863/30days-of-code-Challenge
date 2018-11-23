@@ -21,4 +21,12 @@ And returns the encrypted messege.
 To decrypt its the same thing just in opposite order.
 
 
+--I also included for those who want to run it quick on the terminal--
+
+//to compile
+sudo g++ encrypt.cpp
+
+//to execute
+./a.out
+
 -----------------------------------------------------------------------------------------------------------------------
