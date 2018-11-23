@@ -1,6 +1,6 @@
 # 30days-of-code
 
-First Challlege                                                                             ENCODING MESSEGE
+ENCODED MESSEGE
 -----------------------------------------------------------------------------------------------------------------------
 For my first coding challenge I made an encryption/decryption program. You can either encrypt a messege and copy/paste it to the designated individual you want to send it to, or if you recive a encypted messege you can decrypt it. There are two types of encryption just so its not so consistent, theyre both extreemly similar but make a difference when entering compliated messeges.
 
